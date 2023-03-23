@@ -1,0 +1,32 @@
+{
+    "name": "masques-1",
+    "title": "Masques",
+    "description": "A module containing the exported Masques compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Pico (GM)",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Adventure",
+            "label": "Masques",
+            "module": "masques-1",
+            "path": "packs/masks-of-nyarlathotep-masques-1679574177869.db",
+            "name": "masks-of-nyarlathotep-masques-1679574177869",
+            "system": "CoC7"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
